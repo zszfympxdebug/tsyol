@@ -1,7 +1,7 @@
 ---
 lang: zh_CN
-title: Hello Vuepress
-description: Hello Vuepress
+title: zszfsblog
+description: zszfsblog
 ---
 # zszf's blog
 
