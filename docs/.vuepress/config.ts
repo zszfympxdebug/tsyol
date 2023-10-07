@@ -3,6 +3,7 @@ import {katex} from '@mdit/plugin-katex';
 import {mdEnhancePlugin} from 'vuepress-plugin-md-enhance'
 
 export default defineUserConfig({
+    base: "/tsyol/",
     lang: 'zh_CN',
     title: 'Demo',
     description: 'Vuepress Demo!',
