@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-27e50f64","path":"/tsyol/skill/oxs_sk1.html","title":"oxs","lang":"zh_CN","frontmatter":{"description":"oxs之一技能","lang":"zh_CN","title":"oxs"},"headers":[],"git":{"updatedTime":1696769789000,"contributors":[{"name":"zszfympxdebug","email":"denys2010@163.com","commits":1}]},"filePathRelative":"tsyol/skill/oxs_sk1.md"}');export{t as data};

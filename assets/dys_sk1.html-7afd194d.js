@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6827a710","path":"/tsyol/skill/dys_sk1.html","title":"dys","lang":"zh_CN","frontmatter":{"description":"dys之一技能","lang":"zh_CN","title":"dys"},"headers":[],"git":{"updatedTime":1696685565000,"contributors":[{"name":"zszfympxdebug","email":"denys2010@163.com","commits":2}]},"filePathRelative":"tsyol/skill/dys_sk1.md"}');export{t as data};
